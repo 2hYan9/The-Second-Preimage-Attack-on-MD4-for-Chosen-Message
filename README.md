@@ -1,8 +1,11 @@
-# Second-Preimage-attack-on-MD4-for-Some-Chosen-Message
+# The Second Preimage attack on MD4 for Some Chosen Message
 
-仿真程序的完整代码在文件'Simulation_Program.cpp'中，  
+对MD4哈希函数算法的选择明文第二原像攻击仿真程序的完整代码在文件'Simulation_Program.cpp'中，  
 
-仿真程序的主函数代码如下：  
+程序的运行结果如下图：
+![]()
+
+下面使程序的部分代码展示，仿真程序的主函数代码如下：  
 
 ```C++
 int main()
