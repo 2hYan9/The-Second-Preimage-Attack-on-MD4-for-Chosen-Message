@@ -584,7 +584,7 @@ int main()
         generateMessage();
         mutipleMessageModify();
         {
-
+            /*
             message[0] = 0x4d7a9c83;
             message[1] = 0x56cb927a;
             message[2] = 0xb9d5a578;
@@ -601,7 +601,7 @@ int main()
             message[13] = 0x97e31fe5;
             message[14] = 0x2794bf08;
             message[15] = 0xb9e8c3e9;
-
+            */
         }
 
         vector<unsigned int> m1;
