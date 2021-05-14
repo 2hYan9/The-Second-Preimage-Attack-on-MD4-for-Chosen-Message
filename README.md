@@ -1,4 +1,7 @@
 # Second-Preimage-attack-on-MD4-for-Some-Chosen-Message
+
+仿真程序的完整代码在文件'Simulation_Program.cpp'中，  
+
 仿真程序的主函数代码如下：  
 
 ```C++
