@@ -4,7 +4,7 @@
 
 reference:  Xiaoyun Wang, Xuejia Lai, Dengguo Feng, et al. Cryptanalysis of the Hash Functions MD4 and RIPEMD\[C\].//Advances in Cryptoloty-EUROCRYPT 2005.2005:1-18.
 
-程序的运行结果如下图：
+程序的运行结果如下图：  
 ![result](./result.png)
 
 下面使程序的部分代码展示，仿真程序的主函数代码如下，在函数外部开了一个长度为52的全局`unsigned int`类型数组`chain_value`用于保存生成哈希值所需要的连接变量，此外还在函数外部开了一个长度为16的全局的`unsigned int`类型数组`message`用于保存随机生成的消息：  
