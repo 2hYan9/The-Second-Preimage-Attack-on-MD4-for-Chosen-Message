@@ -2,7 +2,7 @@
 
 对MD4哈希函数算法的选择明文第二原像攻击仿真程序的完整代码在文件'Simulation_Program.cpp'中，  
 
-reference:  Xiaoyun Wang, Xuejia Lai, Dengguo Feng, et al. Cryptanalysis of the Hash Functions MD4 and RIPEMD\[C\].//Advances in Cryptoloty-EUROCRYPT 2005.2005:1-18.
+Reference:  Xiaoyun Wang, Xuejia Lai, Dengguo Feng, et al. Cryptanalysis of the Hash Functions MD4 and RIPEMD\[C\].//Advances in Cryptoloty-EUROCRYPT 2005.2005:1-18.
 
 程序的运行结果如下图：  
 ![result](./result.png)
