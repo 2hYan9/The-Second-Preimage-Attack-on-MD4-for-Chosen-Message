@@ -2,8 +2,10 @@
 
 对MD4哈希函数算法的选择明文第二原像攻击仿真程序的完整代码在文件'Simulation_Program.cpp'中，  
 
+reference:  Xiaoyun Wang, Xuejia Lai, Dengguo Feng, et al. Cryptanalysis of the Hash Functions MD4 and RIPEMD\[C\].//Advances in Cryptoloty-EUROCRYPT 2005.2005:1-18.
+
 程序的运行结果如下图：
-![](./result.png)
+![result](./result.png)
 
 下面使程序的部分代码展示，仿真程序的主函数代码如下，在函数外部开了一个长度为52的全局`unsigned int`类型数组`chain_value`用于保存生成哈希值所需要的连接变量，此外还在函数外部开了一个长度为16的全局的`unsigned int`类型数组`message`用于保存随机生成的消息：  
 
