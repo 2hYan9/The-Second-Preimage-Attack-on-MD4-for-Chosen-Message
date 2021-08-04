@@ -1,4 +1,4 @@
-# The Second Preimage attack on MD4 for Some Chosen Message
+# The Second Preimage attack on MD4 for Chosen Message
 
 对MD4哈希函数算法的选择明文第二原像攻击仿真程序的完整代码在文件'Simulation_Program.cpp'中，  
 
